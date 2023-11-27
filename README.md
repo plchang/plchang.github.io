@@ -1,5 +1,5 @@
 # plchang.github.io
-
+{
 lsi: false
 safe: true
 source: [your repo's top level directory]
@@ -10,7 +10,9 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-  
+}
+{
 layout: page
 title: "PAGE-TITLE"
 permalink: /hW3/C_library
+}
